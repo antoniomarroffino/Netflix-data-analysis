@@ -76,5 +76,6 @@ The main notebook (`progetto.ipynb`) includes:
 
 ## 👤 Author
 
-Antonio Marroffino  
-[GitHub Profile](https://github.com/antoniomarroffino)
+**Antonio Marroffino**
+- GitHub: [github.com/antoniomarroffino](https://github.com/antoniomarroffino)
+- LinkedIn: [linkedin.com/in/antonio-marroffino](https://www.linkedin.com/in/antoniomarroffino)
