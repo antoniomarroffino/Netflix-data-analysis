@@ -79,3 +79,9 @@ The main notebook (`progetto.ipynb`) includes:
 **Antonio Marroffino**
 - GitHub: [github.com/antoniomarroffino](https://github.com/antoniomarroffino)
 - LinkedIn: [linkedin.com/in/antonio-marroffino](https://www.linkedin.com/in/antoniomarroffino)
+
+---
+
+## 📜 License
+
+This project was developed for educational purposes as part of the Bachelor's degree in Computer Engineering at SUPSI.
